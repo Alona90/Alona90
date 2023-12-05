@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/Alona90/Alona90/blob/main/UngStr%C3%B8m.png
+!(https://github.com/Alona90/Alona90/blob/main/UngStr%C3%B8m.png)
 <!--
 **Alona90/Alona90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
